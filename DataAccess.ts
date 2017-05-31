@@ -3,7 +3,7 @@ import Mongoose = require("mongoose");
 class DataAccess {
     static mongooseInstance: any;
     static mongooseConnection: Mongoose.Connection;
-    static DB_CONNECTION_STRING:string = 'mongodb://saasmaster:saas123@ds064799.mlab.com:64799/ssdb';
+    static DB_CONNECTION_STRING:string = 'mongodb://saasmaster:saas123@ds064799.mlab.com:64799/ssdeploy';
     
     constructor () {
         DataAccess.connect();
