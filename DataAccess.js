@@ -17,6 +17,6 @@ var DataAccess = (function () {
     };
     return DataAccess;
 }());
-DataAccess.DB_CONNECTION_STRING = 'mongodb://skillsquad:squadders@localhost:27017/ssDB';
+DataAccess.DB_CONNECTION_STRING = 'mongodb://saasmaster:saas123@ds064799.mlab.com:64799/ssdb';
 DataAccess.connect();
 exports["default"] = DataAccess;
