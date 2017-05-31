@@ -1,0 +1,30 @@
+[ 
+	 {
+	  "name": "Standing on One Foot",
+	  "description": "This week you will practice your balance by standing on one foot at a time.",
+	  "assignId": 4,
+	  "created": "05-01-2017",
+	  "instructor": "benw"
+	 },
+	 {
+	  "name": "Triple Step Drills",
+	  "description": "This week you will practice your triple steps by alternating with foot you have in front of you.",
+	  "assignId": 3,
+	  "created": "05-01-2017",
+	  "instructor": "benw"
+	 },
+	 {
+	  "name": "Pulse Exercises",
+	  "description": "This week you will practice your pulse by recording your footwork to different tempos of music.",
+	  "assignId": 2,
+	  "created": "05-01-2017",
+	  "instructor": "benw"
+	 },
+	 {
+	  "name": "Create a Choreo",
+	  "description": "This week you will choreograph eight eights to the song of your choice!",
+	  "assignId": 1,
+	  "created": "05-01-2017",
+	  "instructor": "benw"
+	 }
+]
